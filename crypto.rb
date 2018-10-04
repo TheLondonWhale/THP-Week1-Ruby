@@ -41,7 +41,7 @@ n = 0
     n += 1
     end
   end
-puts " Il y a #{n} journalistes qui ont un dans leur handle le prénom aude."
+puts " Il y a #{n} cryptomonnaies qui ont coin dans leur nom."
 end
 
 number_coin(hash_crypto)
